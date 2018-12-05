@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Personal Website", "Personal Website\Personal Website.njsproj", "{4F4C3C71-AD69-4645-A501-A3A2A369896F}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Personal Website", "app\Personal Website.njsproj", "{4F4C3C71-AD69-4645-A501-A3A2A369896F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
